@@ -36,7 +36,8 @@
             android:background="@color/black_overlay"
             android:orientation="horizontal"
             app:srcCompat="@drawable/img2"
-            tools:ignore="UselessParent" />
+            tools:ignore="UselessParent"
+            android:contentDescription="@string/start_screen" />
     </FrameLayout>
 
 </FrameLayout>
